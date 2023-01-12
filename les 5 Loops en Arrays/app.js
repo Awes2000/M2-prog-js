@@ -11,7 +11,7 @@ class App
     }
     tekenCirkel(x,y)
     {
-        let canvas = document.getElementByI
+        let canvas = document.getElementById
     }
     
 
